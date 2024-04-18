@@ -37,7 +37,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <!-- used in integration testing -->
     <cal10n.version>0.8.1</cal10n.version>
-    <reload4j.version>1.2.22</reload4j.version>
+    <reload4j.version>1.2.25</reload4j.version>
     <logback.version>1.2.10</logback.version>
     <jcl.version>1.2</jcl.version>
     <junit.version>4.13.1</junit.version>
